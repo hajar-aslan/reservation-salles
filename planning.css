@@ -29,9 +29,6 @@ thead td {
     text-transform: capitalize;
 }
 
-
-tbody {}
-
 tr {
     display: flex;
     flex-direction: row;
